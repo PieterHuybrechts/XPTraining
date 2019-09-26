@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cegeka.spacebook.PersonTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-09-26T20:08:55" hostname="DESKTOP-Q852PKO" time="0.079">
+  <properties/>
+  <testcase name="addFriend_givenAPersonAddingHimself_ThenThrowException" classname="com.cegeka.spacebook.PersonTest" time="0.046"/>
+  <testcase name="addFriend_givenAPerson_ThenTheOtherPersonHasAFriend" classname="com.cegeka.spacebook.PersonTest" time="0.009"/>
+  <testcase name="Person_givenUsernameNull_ExpectingException" classname="com.cegeka.spacebook.PersonTest" time="0.002"/>
+  <testcase name="addFriend_givenAPerson_ThenThePersonHasAFriend" classname="com.cegeka.spacebook.PersonTest" time="0.001"/>
+  <testcase name="addMessage_givenAPersonWithoutAFriend_ThenThrowException" classname="com.cegeka.spacebook.PersonTest" time="0.004"/>
+  <testcase name="Person_givenUsernameOnlyContainingSpaces_ExpectingException" classname="com.cegeka.spacebook.PersonTest" time="0.001"/>
+  <testcase name="Person_givenUsernameEmpty_ExpectingException" classname="com.cegeka.spacebook.PersonTest" time="0.007"/>
+  <testcase name="addMessage_givenAPersonWithAFriend_ReceivesAMessage" classname="com.cegeka.spacebook.PersonTest" time="0.0"/>
+  <testcase name="Person_givenUsername_thenPersonHasGivenUsername" classname="com.cegeka.spacebook.PersonTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

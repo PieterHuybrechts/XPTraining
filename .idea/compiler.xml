@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="java.01_-_Demo_1_-_Delayed.main" target="1.8" />
+      <module name="java.01_-_Demo_1_-_Delayed.test" target="1.8" />
+      <module name="java.02_-_Lab_1_-_SpaceBook.main" target="1.8" />
+      <module name="java.02_-_Lab_1_-_SpaceBook.test" target="1.8" />
+      <module name="java.03_-_Lab_2_-_Bugfix_Dracula.main" target="1.8" />
+      <module name="java.03_-_Lab_2_-_Bugfix_Dracula.test" target="1.8" />
+      <module name="java.04_-_Demo_2_-_Greeting.main" target="1.8" />
+      <module name="java.04_-_Demo_2_-_Greeting.test" target="1.8" />
+      <module name="java.05_-_Lab_3_-_PetShop.main" target="1.8" />
+      <module name="java.05_-_Lab_3_-_PetShop.test" target="1.8" />
+      <module name="java.06_-_Lab_4_-_Flight.main" target="1.8" />
+      <module name="java.06_-_Lab_4_-_Flight.test" target="1.8" />
+      <module name="java.07_-_Demo_3_-_Refactoring.main" target="1.8" />
+      <module name="java.07_-_Demo_3_-_Refactoring.test" target="1.8" />
+      <module name="java.08_-_Lab_5_-_MovieRental.main" target="1.8" />
+      <module name="java.08_-_Lab_5_-_MovieRental.test" target="1.8" />
+      <module name="XPTraining-master.java.04_-_Demo_2_-_Greeting.main" target="1.8" />
+      <module name="XPTraining-master.java.04_-_Demo_2_-_Greeting.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

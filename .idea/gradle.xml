@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01_-_Demo_1_-_Delayed" />
+            <option value="$PROJECT_DIR$/02_-_Lab_1_-_SpaceBook" />
+            <option value="$PROJECT_DIR$/03_-_Lab_2_-_Bugfix_Dracula" />
+            <option value="$PROJECT_DIR$/04_-_Demo_202_-_Lab_1_-_SpaceBook_-_Greeting" />
+            <option value="$PROJECT_DIR$/05_-_Lab_3_-_PetShop" />
+            <option value="$PROJECT_DIR$/06_-_Lab_4_-_Flight" />
+            <option value="$PROJECT_DIR$/07_-_Demo_3_-_Refactoring" />
+            <option value="$PROJECT_DIR$/08_-_Lab_5_-_MovieRental" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

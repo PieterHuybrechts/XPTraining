@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/01_-_Demo_1_-_Delayed/build/
+/01_-_Demo_1_-_Delayed/build/classes/main/
+/01_-_Demo_1_-_Delayed/build/classes/test/
+/03_-_Lab_2_-_Bugfix_Dracula/build/
+/03_-_Lab_2_-_Bugfix_Dracula/build/classes/main/
+/03_-_Lab_2_-_Bugfix_Dracula/build/classes/test/
+/04_-_Demo_202_-_Lab_1_-_SpaceBook_-_Greeting/build/
+/04_-_Demo_202_-_Lab_1_-_SpaceBook_-_Greeting/build/classes/main/
+/04_-_Demo_202_-_Lab_1_-_SpaceBook_-_Greeting/build/classes/test/
+/06_-_Lab_4_-_Flight/build/
+/06_-_Lab_4_-_Flight/build/classes/main/
+/06_-_Lab_4_-_Flight/build/classes/test/
+/08_-_Lab_5_-_MovieRental/build/
+/08_-_Lab_5_-_MovieRental/build/classes/main/
+/08_-_Lab_5_-_MovieRental/build/classes/test/
